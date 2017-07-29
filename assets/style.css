@@ -1,0 +1,16 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: #99ff99;
+	color:	#bf00ff;
+}
+.container {
+	text-align: center;
+}
+a, a:hover, a:active{
+	color:	#bf00ff;
+	text-decoration: none;
+}
+hr {
+	color: #bf00ff;
+	background-color: #bf00ff;s
+}
